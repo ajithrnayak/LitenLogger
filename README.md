@@ -31,7 +31,7 @@ So, installation of this logger is done manually.
 
 **output**
 
-
+![output](https://github.com/ajithrnayak/LitenLogger/blob/master/LitenLogger.png)
 
 
 
